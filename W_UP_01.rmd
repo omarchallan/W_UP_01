@@ -74,6 +74,14 @@ t.test(pushups~position,data=mydata)
 ```
 
 
+
+p-value = 0.000009421
+ 
+The p-value is far smaller that 0.05 indicated that there is a strong statistical significance.
+This rejects the $H_0$ leaving only the $H_A$.  
+
+
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
