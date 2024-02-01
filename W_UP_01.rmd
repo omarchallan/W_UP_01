@@ -86,3 +86,16 @@ This rejects the $H_0$ leaving only the $H_A$.
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+$H_0$ = There is no difference in push-ups based on position.
+$H_A$ = There is a difference in push-ups based on position.
+
+With assistance from ChatGPT, I was ablt to write some R code to Create a box plot.
+
+Also, by using the Numerical-Cat helper tool, I was able to perform a T Test and a Summary of the data  with (favstats).
+
+The box plot in conjunction with the summary and T test show that we can reject the $H_0$ leaving only the $H_A$.
+
+
+
+
