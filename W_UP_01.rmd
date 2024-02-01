@@ -48,6 +48,8 @@ boxplot(pushups~position,data=mydata)
 ```
 
 
+I'm looking at the columns in the chart above, the left are the line positions, and on the right are the skilled positions. The height of the skilled box is much higher. The 25th Percentile on the skilled players is higher than the 75th Percentile of the line players. This seems to indicate that skilled positions can do more push-ups than line positions.
+
 
 ### Numerical Descriptive Results
 
